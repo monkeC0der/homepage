@@ -22,3 +22,10 @@ body {
     min-width: 400px;
   }
 }
+
+#header{
+    height: 300px;
+    background-image: linear-gradient(to bottom right, rgb(0, 99, 237) 60%, white 40%);
+}
+
+
